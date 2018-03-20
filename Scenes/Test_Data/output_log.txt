@@ -1,0 +1,175 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon(TM) R5 240 (ID=0x6611)
+    Vendor:   ATI
+    VRAM:     1005 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\aluno\Desktop\GodGames-master\Scenes\Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\aluno\Desktop\GodGames-master\Scenes\Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\aluno\Desktop\GodGames-master\Scenes\Test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\aluno\Desktop\GodGames-master\Scenes\Test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\aluno\Desktop\GodGames-master\Scenes\Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\aluno\Desktop\GodGames-master\Scenes\Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\aluno\Desktop\GodGames-master\Scenes\Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\aluno\Desktop\GodGames-master\Scenes\Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\aluno\Desktop\GodGames-master\Scenes\Test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\aluno\Desktop\GodGames-master\Scenes\Test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\aluno\Desktop\GodGames-master\Scenes\Test_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\aluno\Desktop\GodGames-master\Scenes\Test_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.600 seconds
+Platform assembly: C:\Users\aluno\Desktop\GodGames-master\Scenes\Test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\aluno\Desktop\GodGames-master\Scenes\Test_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.222315 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1484 -> priority: 1 
+NetworkLobbyManager no more players for this connection.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.229223 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 0.167640 ms (FindLiveObjects: 0.008397 ms CreateObjectMapping: 0.014307 ms MarkObjects: 0.138093 ms  DeleteObjects: 0.003110 ms)
+
+NetworkLobbyManager no more players for this connection.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NetworkLobbyManager no more players for this connection.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NetworkLobbyManager no more players for this connection.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NetworkLobbyManager no more players for this connection.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.325639 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 0.218337 ms (FindLiveObjects: 0.008708 ms CreateObjectMapping: 0.012751 ms MarkObjects: 0.183502 ms  DeleteObjects: 0.013062 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.236998 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 0.167018 ms (FindLiveObjects: 0.007464 ms CreateObjectMapping: 0.013062 ms MarkObjects: 0.143381 ms  DeleteObjects: 0.002799 ms)
+
+MatchMakingClient Create :https://mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NetworkLobbyManager no more players for this connection.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NetworkLobbyManager no more players for this connection.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+MatchMakingClient DropConnection :https://mm.unet.unity3d.com/json/reply/DropConnectionRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.277431 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 350.
+Total: 0.221447 ms (FindLiveObjects: 0.010885 ms CreateObjectMapping: 0.016173 ms MarkObjects: 0.189723 ms  DeleteObjects: 0.004354 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.234510 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 350.
+Total: 0.193766 ms (FindLiveObjects: 0.008708 ms CreateObjectMapping: 0.012751 ms MarkObjects: 0.168262 ms  DeleteObjects: 0.003421 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.437607 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 350.
+Total: 0.375403 ms (FindLiveObjects: 0.020527 ms CreateObjectMapping: 0.028302 ms MarkObjects: 0.318797 ms  DeleteObjects: 0.006842 ms)
+
+MatchMakingClient Create :https://mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+MatchMakingClient Create :https://mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Local Connection already exists
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+A connection has already been set as ready. There can only be one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ClientScene::AddPlayer: playerControllerId of 0 already in use.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+MatchMakingClient DropConnection :https://mm.unet.unity3d.com/json/reply/DropConnectionRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.225490 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 350.
+Total: 0.220825 ms (FindLiveObjects: 0.008397 ms CreateObjectMapping: 0.013062 ms MarkObjects: 0.196254 ms  DeleteObjects: 0.003110 ms)
+
+A connection has already been set as ready. There can only be one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Local invoke: Failed to find local connection to invoke handler on [connectionId=0] for MsgId:37
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.236065 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 350.
+Total: 0.212116 ms (FindLiveObjects: 0.009019 ms CreateObjectMapping: 0.012751 ms MarkObjects: 0.186924 ms  DeleteObjects: 0.003110 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.493280 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 350.
+Total: 0.515674 ms (FindLiveObjects: 0.022704 ms CreateObjectMapping: 0.032346 ms MarkObjects: 0.450981 ms  DeleteObjects: 0.009019 ms)
+
+MatchMakingClient Create :https://mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+A connection has already been set as ready. There can only be one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Local invoke: Failed to find local connection to invoke handler on [connectionId=0] for MsgId:37
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+MatchMakingClient DropConnection :https://mm.unet.unity3d.com/json/reply/DropConnectionRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.241663 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 350.
+Total: 0.215227 ms (FindLiveObjects: 0.008708 ms CreateObjectMapping: 0.013373 ms MarkObjects: 0.189412 ms  DeleteObjects: 0.002799 ms)
+
